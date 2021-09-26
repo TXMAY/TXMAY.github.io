@@ -20,7 +20,7 @@ title                    : "TXMAY"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "TXMAY"
-description              : "An amazing website."
+description              : "고등학생의 블로그"
 url                      : "https://TXMAY.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -31,7 +31,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
+  disqus: 
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "yee"
   location         : "South Korea"
-  email            :
+  email            : "juya6388king@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
